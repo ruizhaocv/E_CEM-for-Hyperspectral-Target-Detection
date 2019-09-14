@@ -19,6 +19,20 @@ For more information of this project, please refer to our paper: [R Zhao, Z Shi,
 - [utils.py](utils.py): Some useful tools.
 - [hyperspectral_data](hyperspectral_data.py): Data used in our experiments.
 
+## Usage
+
+To run the E-CEM detector:
+
+```
+python demo.py
+```
+
+To reproduce our experiments:
+
+```
+python exp.py 
+```
+
 
 ## Overview
 
