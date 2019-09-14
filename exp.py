@@ -60,8 +60,10 @@ class Exp(object):
 
 
 def main():
+    
     exp = Exp()
-    ecem = exp.san()  # chose the experiment: san, san_noise, syn_noise or cup
+    # chose an experiment: san (sec 3.4), san_noise (sec 3.4), syn_noise (sec 3.3), or cup (sec 3.5)
+    ecem = exp.san()  
     results = []
     names = []
     for name, detector in Other_detectors().detect(exp.data).items():  # dectection

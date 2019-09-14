@@ -60,6 +60,7 @@ class Detector(object):
 
 
 def wgn(x, snr):
+    # add white Gaussian noise to x with specific SNR
     snr = 10**(snr/10)
     xpower = np.sum(x**2)/len(x)
     npower = xpower / snr

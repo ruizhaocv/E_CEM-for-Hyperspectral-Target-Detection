@@ -33,6 +33,20 @@ To reproduce our experiments:
 python exp.py 
 ```
 
+## Citation
+
+```
+@article{zhao2019ensemble,
+  title={Ensemble-Based Cascaded Constrained Energy Minimization for Hyperspectral Target Detection},
+  author={Zhao, Rui and Shi, Zhenwei and Zou, Zhengxia and Zhang, Zhou},
+  journal={Remote Sensing},
+  volume={11},
+  number={11},
+  pages={1310},
+  year={2019},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+```
 
 ## Overview
 
