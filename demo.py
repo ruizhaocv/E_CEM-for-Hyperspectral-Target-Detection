@@ -3,7 +3,7 @@
 
 """
 Created on Feb 2019 @author: Rui ZHAO
-The following code shows how to the run the E-CEM detector of our paper:
+The following code shows how to run the E-CEM detector of our paper:
 R Zhao, Z Shi, Z Zou, Z Zhang, Ensemble-Based Cascaded Constrained Energy Minimization for Hyperspectral Target Detection. Remote Sensing 2019.
 
 """
